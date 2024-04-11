@@ -1,11 +1,12 @@
-# Welcome to your Jupyter Book
+# Bem vindo a página do curso de Cálculo Diferencial e Integral II, 
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Ibilce-Unesp\
+Turma: Matemática\
+Ano: 2024
 
-Check out the content pages bundled with this sample book to see more.
+Esta página foi desenvolvida baseada em um modelo de [Jupyter Book](https://jupyterbook.org).
+
+Veja abaixo os tópicos desenvolvidos até o momento.
 
 ```{tableofcontents}
 ```
