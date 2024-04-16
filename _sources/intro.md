@@ -1,4 +1,4 @@
-# Bem vindo a página do curso de Cálculo Diferencial e Integral II, 
+# Bem vindo a página do curso de Cálculo Diferencial e Integral II. 
 
 Ibilce-Unesp\
 Turma: Matemática\
