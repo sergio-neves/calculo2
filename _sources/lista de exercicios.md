@@ -47,10 +47,20 @@ Sugestão de exercícios:
 |            | $\S$ 13.2 Ex. 1. a); 2; 3.
 |            | $\S$ 13.4 Ex. 1. a), c); 2. a), b); 6; 17.
 |            | $\S$ 14.1 Ex. 3; 7.
+|            | $\S$ 16.2 Ex. 1; 3; 4.
+|            | $\S$ 16.3 Ex. 1. a), c), m); 4; 5; 7; 10; 18.
+|            | $\S$ 16.4 Ex. 1. a), b); 3; 7.
+|            | $\S$ 16.5 Ex. 1. a); 4; 5; 9; 11; 16; 17.
+|{cite}`G3`  | $\S$ 3.1 Ex. 1. d), i); 2; 3. b), f); 4. d); 6. a), c).
+|            | $\S$ 4.2 Ex. 1. a), e); 2. c), f).
+|            | $\S$ 4.3 Ex. 1. a), d).
 |{cite}`S2`  | Cap. 12. Revisão, Testes Verdadeiro-Falso 1; 2; 3; 4; 5; 6; 7; 19; 20; 21; 22.         
-|            | Cap. 13. Revisão, Testes Verdadeiro-Falso 1; 2; 3; 4; 5; 6.         
-|            | Cap. 14. Revisão, Testes Verdadeiro-Falso 1; 2; 3; 4; 5; 6.     
-
+|            | Cap. 13. Revisão, Testes Verdadeiro-Falso 1; 2; 3; 4; 5; 6.  
+|            | $\S$ 14.7 Ex. 41; 42; 54; 55.
+|            | $\S$ 14.8 Ex. 23; 54.       
+|            | Cap. 14. Revisão, Testes Verdadeiro-Falso 1; 2; 3; 4; 5; 6; 7; 8; 9; 10; 11; 12.    
+|            | $\S$ 15.3 Ex. 50.   
+|            | Cap. 15. Revisão, Testes Verdadeiro-Falso 1; 2; 3; 4; 5.   
 ```{bibliography}
 :filter: docname in docnames
 ```
