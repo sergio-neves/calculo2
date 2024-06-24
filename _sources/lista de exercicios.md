@@ -64,5 +64,3 @@ Sugestão de exercícios:
 ```{bibliography}
 :filter: docname in docnames
 ```
-
-
