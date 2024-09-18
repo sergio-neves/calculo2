@@ -54,6 +54,13 @@ Sugestão de exercícios:
 |{cite}`G3`  | $\S$ 3.1 Ex. 1. d), i); 2; 3. b), f); 4. d); 6. a), c).
 |            | $\S$ 4.2 Ex. 1. a), e); 2. c), f).
 |            | $\S$ 4.3 Ex. 1. a), d).
+|            | $\S$ 5.4 Ex. 1. a), c), e), i), l), n), p), r); 2. a), c), e), g), n), p), r); 5.
+|            | $\S$ 5.5 Ex. 1. a), c), f); 2; 4.
+|            | $\S$ 5.7 Ex. 11
+|            | $\S$ 6.1 Ex. 1. a), d); 2; 4. a), b), c).
+|            | $\S$ 6.2 Ex. 1; 3; 4.
+|            | $\S$ 6.4 Ex. 1; 3.
+|            | $\S$ 7.1 Ex. 1. a), b), d).
 |{cite}`S2`  | Cap. 12. Revisão, Testes Verdadeiro-Falso 1; 2; 3; 4; 5; 6; 7; 19; 20; 21; 22.         
 |            | Cap. 13. Revisão, Testes Verdadeiro-Falso 1; 2; 3; 4; 5; 6.  
 |            | $\S$ 14.7 Ex. 41; 42; 54; 55.
@@ -61,6 +68,11 @@ Sugestão de exercícios:
 |            | Cap. 14. Revisão, Testes Verdadeiro-Falso 1; 2; 3; 4; 5; 6; 7; 8; 9; 10; 11; 12.    
 |            | $\S$ 15.3 Ex. 50.   
 |            | Cap. 15. Revisão, Testes Verdadeiro-Falso 1; 2; 3; 4; 5.   
+|            | $\S$ 15.6 Ex. 3; 21.
+|            | $\S$ 15.7 Ex. 15; 16.
+|            | $\S$ 15.8 Ex. 21; 22.
+|            | $\S$ 16.2 Ex. 23; 38; 41.
+|            | $\S$ 16.3 Ex. 3; 7; 13; 14.
 ```{bibliography}
 :filter: docname in docnames
 ```
