@@ -43,7 +43,7 @@ sphinx:
     mathjax_path: https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-AMS-MML_HTMLorMML
     mathjax2_config: {
         'tex2jax': {
-            'inlineMath': [['$', '$'], ['\\(', '\\)']],
+            #'inlineMath': [['$', '$'], ['\\(', '\\)']],
             'processEscapes': True,
             'ignoreClass': 'document',
             'processClass': 'math|output_area',
@@ -59,4 +59,4 @@ parse:
     # don't forget to list any other extensions you want enabled,
     # including those that are enabled by default!
     - amsmath
-    #- dollarmath
+    - dollarmath
