@@ -87,6 +87,7 @@ Sugestão de exercícios:
 |            | $\S$ 16.7 Ex. 4; 5; 10; 24.
 |            | $\S$ 16.8 Ex. 2; 3; 9; 11; 21; 23.
 |            | $\S$ 16.9 Ex. 5; 13; 14; 19.
+|            | Cap. 16. Revisão, Testes Verdadeiro-Falso 1; 2; 3; 4; 5; 6; 7; 12; 13.
 ```{bibliography}
 :filter: docname in docnames
 ```
